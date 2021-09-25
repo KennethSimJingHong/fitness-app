@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>16536365164-5mj27dv2o0otv66150tr1a9vuudh0j96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.16536365164-5mj27dv2o0otv66150tr1a9vuudh0j96</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCp5bsnjW1wKMmTyur6nEHMvKw7YvwMZbw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>16536365164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fitnessApp</string>
+	<key>PROJECT_ID</key>
+	<string>fitness-app-d1dc0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitness-app-d1dc0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:16536365164:ios:df91aed95ed70aedf65049</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitness-app-d1dc0.firebaseio.com</string>
+</dict>
+</plist>
